@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "É um ramo da ciência que se concentra no desenvolvimento de sistemas e algoritmos capazes de realizar tarefas que normalmente exigem inteligência humana.",
-                afirmacao: "certo"
+                afirmacao: "Isso mesmo! Continue pesquisando sobre IA."
             },
             {
                 texto: "É o índice de aumento de expectativa de vida no mundo.",
-                afirmacao: "errado"
+                afirmacao: "O índice de aumento de expectativa de vida no mundo não está relacionado com a IA."
             }
                
         ]
@@ -24,11 +24,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Com assistentes pessoais, casas inteligentes, na educação, na medicina, nas empresas e na indústria.",
-                afirmacao: "certo"
+                afirmacao: "A inteligência artificial tem sido cada vez mais utilizada no nosso dia-a-dia, em diversas áreas da nossa vida."
             },
             {
                 texto: "Levando café da manhã na sua cama.",
-                afirmacao: "errado"
+                afirmacao: "A IA não pode fazer isso."
             }
                
         ]
@@ -38,11 +38,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Tecnologia, cultura, vendas.",
-                afirmacao: "certo"
+                afirmacao: "Isso mesmo! Esses pilares são muito importantes."
             },
             {
                 texto: "Lutas marciais, balé, culinária",
-                afirmacao: "errado"
+                afirmacao: "Esses não são os pilares da IA."
             }
               
         ]
@@ -52,11 +52,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Extinguir a raça humana.",
-                afirmacao: "errado"
+                afirmacao: "Esse é um pensamento errado que infelizmente muitas pessoas tem."
             },
             {
                 texto: "Automatizar tarefas.",
-                afirmacao: "certo"
+                afirmacao: "Correto! Continue estudando..."
             }
             
         ]
@@ -66,11 +66,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Aprendizado de máquina, processamento de linguagem natural, visão computacional e robótica inteligente.",
-                afirmacao: "certo"
+                afirmacao: "A IA na indústria é algo revulucionário!"
             },
             {
                 texto: "A IA não é utilizada na indústria.",
-                afirmacao: "errado"
+                afirmacao: "Ela é muito utilizada na indústria"
             }
             
         ]
